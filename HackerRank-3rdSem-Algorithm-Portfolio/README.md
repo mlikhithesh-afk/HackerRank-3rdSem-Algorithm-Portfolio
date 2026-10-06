@@ -12,7 +12,7 @@
 ## Profiles
 
 - **HackerRank:** https://www.hackerrank.com/domains/algorithms
-- **GitHub Repository:** `PASTE YOUR GITHUB REPOSITORY URL HERE`
+- **GitHub Repository:**https://github.com/mlikhithesh-afk/HackerRank-3rdSem-Algorithm-Portfolio
 
 ---
 
