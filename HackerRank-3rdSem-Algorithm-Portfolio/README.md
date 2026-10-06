@@ -3,7 +3,7 @@
 ## Student Information
 
 - **Student Name:** Likhithesh M
-- **Student ID / USN:** `ENTER YOUR USN HERE`
+- **Student ID / USN:** R25EF124
 - **Semester:** 3rd Semester
 - **Program:** B.Tech / B.E. Computer Science and Engineering
 - **University:** REVA University, Bengaluru
@@ -11,7 +11,7 @@
 
 ## Profiles
 
-- **HackerRank:** `PASTE YOUR PUBLIC HACKERRANK PROFILE URL HERE`
+- **HackerRank:** https://www.hackerrank.com/domains/algorithms
 - **GitHub Repository:** `PASTE YOUR GITHUB REPOSITORY URL HERE`
 
 ---
@@ -74,7 +74,7 @@ Sorting is unnecessary because only the minimum and maximum values are required.
 - **Auxiliary Space:** O(1)
 
 ### HackerRank
-- Challenge: https://www.hackerrank.com/challenges/mini-max-sum
+- Challenge: https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 ### Evidence
 See `evidence/` for the accepted-submission screenshot.
@@ -102,7 +102,7 @@ The array only needs to be traversed once and no sorting is required.
 - **Auxiliary Space:** O(1)
 
 ### HackerRank
-- Challenge: https://www.hackerrank.com/challenges/birthday-cake-candles
+- Challenge:https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 
 ### Evidence
 See `evidence/` for the accepted-submission screenshot.
@@ -131,7 +131,7 @@ For this HackerRank task, only one element needs to be inserted, so the implemen
 - **Auxiliary Space:** O(1)
 
 ### HackerRank
-- Challenge: https://www.hackerrank.com/challenges/insertionsort1
+- Challenge: https://www.hackerrank.com/challenges/insertionsort1/problem
 
 ### Evidence
 See `evidence/` for the accepted-submission screenshot.
@@ -163,8 +163,7 @@ Each iteration removes approximately half of the remaining elements from conside
 This is the required binary-search implementation for the portfolio activity. If an approved HackerRank binary-search challenge is used, replace the challenge URL below with that exact URL and add its accepted screenshot to `evidence/`.
 
 ### HackerRank / Reference
-- HackerRank Algorithms: https://www.hackerrank.com/domains/algorithms
-
+- HackerRank Algorithms: https://www.hackerrank.com/domains/algorithmes/binarysearch
 ---
 
 # 5. Mark and Toys
@@ -184,7 +183,7 @@ Buying cheaper toys first maximizes the number of toys purchased under a fixed b
 - **Input storage:** O(N)
 
 ### HackerRank
-- Challenge: https://www.hackerrank.com/challenges/mark-and-toys
+- Challenge:https://www.hackerrank.com/challenges/mark-and-toys/problem
 
 ### Evidence
 See `evidence/` for the accepted-submission screenshot.
@@ -230,6 +229,7 @@ Current evidence includes accepted submissions for:
 - Birthday Cake Candles
 - Insertion Sort - Part 1
 - Mark and Toys
+-Binary search
 
 The profile screenshot also shows my Problem Solving badge/progress.
 
@@ -280,3 +280,5 @@ The activity helped me understand how algorithmic problem-solving connects progr
 ## Academic Integrity
 
 All submitted solutions should represent my own understanding and work. HackerRank links, screenshots, and repository information are included only for academic evaluation and portfolio documentation.
+
+
